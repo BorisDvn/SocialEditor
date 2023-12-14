@@ -1,4 +1,4 @@
-# SocialEditor
+# SocialEditor (Dashboard for photo editing)
 
 Built with Html and css (animated)
 
